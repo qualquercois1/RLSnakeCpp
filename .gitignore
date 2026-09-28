@@ -1,0 +1,24 @@
+# Binários e executáveis
+snake
+*.out
+*.exe
+
+# Arquivos objeto e bibliotecas compiladas
+*.o
+*.a
+*.so
+*.dylib
+
+# Diretórios de build
+build/
+bin/
+cmake-build-*/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema operacional
+.DS_Store
