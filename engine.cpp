@@ -169,5 +169,5 @@ void Engine::updateDirection(int action) {
             case RIGHT: curr_dir = DOWN;  break;
         }
     }
-    // Se action == ACTION_UP (ou ACTION_FORWARD), a cobra continua na direção atual
+    // Se action == ACTION_UP, a cobra continua na direção atual
 }
